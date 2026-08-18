@@ -1,0 +1,23 @@
+# requirements.txt
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+pydantic==2.11.7
+pydantic-settings==2.10.1
+asyncpg==0.30.0
+SQLAlchemy==2.0.43
+GitPython==3.1.45
+psycopg2-binary==2.9.10
+python-dotenv==1.1.1
+
+langchain==0.3.27
+langchain-core==0.3.74
+langchain-groq==0.3.7
+groq==0.31.0
+
+sentence-transformers==5.1.0
+torch==2.8.0
+transformers==4.55.2
+pgvector==0.4.1
+
+semgrep==1.132.0
+bandit==1.8.6
